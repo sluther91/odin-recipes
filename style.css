@@ -1,0 +1,21 @@
+.hotdog-header-font{
+    color: red !important;
+    background-color: rgb(255, 211, 66);
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1{
+    color: green;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ingredients{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+li{
+    color:red;
+    background-color: navy;
+}
