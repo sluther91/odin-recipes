@@ -1,0 +1,41 @@
+/* style.css */
+*{
+    color: green;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    background-color: red;
+    font-weight: 800;
+    color: white;
+}
+
+.lasagna {
+    background-color: yellow;
+    color: red;
+
+}
+
+#sushi {
+    background-color:hsl(60, 1%, 36%);
+    color: rgb(204, 207, 163);
+}
+
+.center {
+    text-align: center;
+}
+
+.ingredients{
+    background-color: rgb(161, 218, 164);
+    list-style-type: none;
+    text-align: center;
+}
+
+.random-goliath {
+    font-size: 55px;
+}
+
+#shrinkify {
+    font-size: 5px;
+}
